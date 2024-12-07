@@ -1,0 +1,1 @@
+define audio.steps = "assets/sounds/steps.mp3"

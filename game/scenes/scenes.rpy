@@ -1,0 +1,5 @@
+image dreamWithGirl = "assets/bg/dreamWithGirl.png"
+image busIn = "assets/bg/busIn.jpg"
+image busOut = "assets/bg/busOut.jpg"
+image clock = "assets/bg/clock.jpg"
+image labEnter = "assets/bg/labEnter.jpg"
